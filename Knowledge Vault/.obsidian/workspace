@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "382b92a4d46ac59b",
+    "type": "split",
+    "children": [
+      {
+        "id": "967820f10a0632d0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Testing/Literature Notes/Unit Testing Python.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7539bcebd384ab91",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc719bcaecda8984",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c57aaf6526e9d075",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8965aff48370ba74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f647c3188546f50e",
+    "type": "split",
+    "children": [
+      {
+        "id": "147bf58d20a2fd89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e649dab26a462647",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Testing/Literature Notes/Unit Testing Python.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "967820f10a0632d0",
+  "lastOpenFiles": [
+    "Testing/Literature Notes/Unit Testing Python.md",
+    "Cloud Computing/Literature Notes/S3 - Literature.md",
+    "Testing/Literature Notes/Untitled.md",
+    "Cloud Computing/Permanent Notes/S3 - Permanent.md",
+    "Cloud Computing/Permanent Notes/Untitled.md",
+    "Cloud Computing/Literature Notes/Untitled.md",
+    "Cloud Computing/Literature Notes/S3/S3 INTRODUCTION.md",
+    "dddddddd.md",
+    "Cloud Computing/daw.md",
+    "Cloud Computing/Literature Notes/S3/Untitled.md"
+  ]
+}
