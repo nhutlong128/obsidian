@@ -1,10 +1,10 @@
 ### Metadata
 
--  Type: #literature #unittesting
-    Date written: [[2021-05-18, Mon]]  
-    Source:  https://medium.com/@yeraydiazdiaz/what-the-mock-cheatsheet-mocking-in-python-6a71db997832
-    Status: #wip 
-    Keywords:  #testing #python 
+-  Type: #literature #unittesting 
+-  Date written: [[2021-05-18, Mon]]  
+-  Source:  https://medium.com/@yeraydiazdiaz/what-the-mock-cheatsheet-mocking-in-python-6a71db997832
+-  Status: #done 
+-  Keywords:  #testing #python 
 	
 ### Notes
 - The main characteristic of a **Mock** object is that it will return another "Mock" instance when:
@@ -101,7 +101,7 @@
 			self.assertEqual(worker.work(), 'testing')
 	```
 
-- `patch.``dict`(_in\_dict_, _values=()_, _clear=False_, _\*\*kwargs_): Patch a dictionary, or dictionary like object, and restore the dictionary to its original state after the test.
+- `patch.dict(_in\_dict_, _values=()_, _clear=False_, _\*\*kwargs_)`: Patch a dictionary, or dictionary like object, and restore the dictionary to its original state after the test.
 	```python
 	foo \= {}
 	@patch.dict(foo, {'newkey': 'newvalue'})
