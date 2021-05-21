@@ -4,13 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "967820f10a0632d0",
+        "id": "fea9af54f3d02d1a",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "5bab6a8ac161fb8f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cloud Computing/Literature Notes/S3 - Literature.md",
+            "file": "Cloud Computing/Permanent Notes/Lambda - Permanent.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b329d21b9497a6e8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cloud Computing/Permanent Notes/Lambda - Permanent.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 306
   },
   "right": {
     "id": "f647c3188546f50e",
@@ -68,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/Literature Notes/S3 - Literature.md",
+                "file": "Cloud Computing/Permanent Notes/Lambda - Permanent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "967820f10a0632d0",
+  "active": "5bab6a8ac161fb8f",
   "lastOpenFiles": [
-    "Cloud Computing/Literature Notes/S3 - Literature.md",
-    "Cloud Computing/Permanent Notes/S3 - Permanent.md",
-    "Testing/Literature Notes/Unit Testing Python.md",
-    "Testing/Literature Notes/Untitled.md",
-    "Cloud Computing/Permanent Notes/Untitled.md",
-    "Cloud Computing/Literature Notes/Untitled.md",
-    "Cloud Computing/Literature Notes/S3/S3 INTRODUCTION.md",
-    "dddddddd.md",
-    "Cloud Computing/daw.md",
-    "Cloud Computing/Literature Notes/S3/Untitled.md"
+    "Cloud Computing/Permanent Notes/Lambda - Permanent.md",
+    "Cloud Computing/Permanent Notes/monitor Lambda.md",
+    "Cloud Computing/Permanent Notes/Lambda Concurrency.md",
+    "Lambda Function Scaling.md",
+    "Cloud Computing/Permanent Notes/Lambda events.md",
+    "Cloud Computing/Permanent Notes/Event Source Mapping.md",
+    "Cloud Computing/Permanent Notes/concurrency controls.md",
+    "Cloud Computing/Permanent Notes/Compute.md",
+    "Cloud Computing/Literature Notes/Lambda - Literature.md",
+    "Cloud Computing/Permanent Notes/Lambda Layer.md"
   ]
 }
