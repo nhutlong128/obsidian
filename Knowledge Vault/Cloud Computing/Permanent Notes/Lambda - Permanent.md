@@ -19,6 +19,7 @@
 - When you put a function to a [[VPC]], Lambda creates a network interface for each subnet in your function's VPC configuration. This process can take about a minute.
 - To establish a private connection between VPC and Lambda using [[PrivateLink]]
 - To use Lambda efficiently, should [[monitor Lambda]] to optimize if needed.
+- Error Analysis
 ### Questions
 
 
