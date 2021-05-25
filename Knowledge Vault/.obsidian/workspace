@@ -6,32 +6,20 @@
       {
         "id": "b329d21b9497a6e8",
         "type": "leaf",
-        "dimension": 40.11857707509881,
+        "dimension": 50,
         "state": {
           "type": "graph",
           "state": {}
         }
       },
       {
-        "id": "3831ff580d7208db",
+        "id": "f85a169dce9df718",
         "type": "leaf",
-        "dimension": 40.11857707509881,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cloud Computing/Permanent Notes/Lambda Network.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "aa69bac8be364dc5",
-        "type": "leaf",
-        "dimension": 19.76284584980237,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cloud Computing/Permanent Notes/Lambda Pricing.md",
+            "file": "Cloud Computing/Permanent Notes/Function Service Integrations.md",
             "mode": "source"
           }
         }
@@ -90,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/Permanent Notes/Lambda Network.md",
+                "file": "Cloud Computing/Permanent Notes/Function Service Integrations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3831ff580d7208db",
+  "active": "f85a169dce9df718",
   "lastOpenFiles": [
-    "Cloud Computing/Permanent Notes/Lambda Network.md",
+    "Cloud Computing/Permanent Notes/Function Service Integrations.md",
+    "Cloud Computing/Permanent Notes/Step Functions.md",
+    "Cloud Computing/Permanent Notes/Step Functions Usecases.md",
+    "Cloud Computing/Permanent Notes/Compute.md",
     "Cloud Computing/Permanent Notes/Lambda.md",
+    "Cloud Computing/Permanent Notes/Untitled.md",
+    "Cloud Computing/Literature Notes/Step Functions - Literature.md",
+    "Cloud Computing/Permanent Notes/Lambda Network.md",
     "Cloud Computing/Permanent Notes/Lambda Pricing.md",
-    "Cloud Computing/Permanent Notes/Provisioned Concurrency Pricing.md",
-    "Cloud Computing/Permanent Notes/Provisioned Concurrency.md",
-    "Destination.md",
-    "Cloud Computing/Permanent Notes/Function Error.md",
-    "Event Bridge Destination.md",
-    "Error Handling in Asynchronous.md",
-    "Dead Letter Queue - DLQ.md"
+    "Cloud Computing/Permanent Notes/Provisioned Concurrency Pricing.md"
   ]
 }
