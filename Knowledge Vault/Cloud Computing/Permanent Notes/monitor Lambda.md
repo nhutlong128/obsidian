@@ -4,4 +4,4 @@ Lambda can be monitored with the help of these services:
 - [[X-Ray]]
 
 
-Backlink: [[Lambda - Permanent]]
+Backlink: [[Lambda]]

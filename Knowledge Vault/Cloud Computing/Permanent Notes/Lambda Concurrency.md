@@ -4,4 +4,4 @@
 - If the function is invoked again while a request is still being processed, another instance is provisioned, increasing the function's concurrency. This works with the help of [[Lambda Function Scaling]]
 - Has two types of [[concurrency controls]]
 
-Backlink: [[Lambda - Permanent]]
+Backlink: [[Lambda]]
