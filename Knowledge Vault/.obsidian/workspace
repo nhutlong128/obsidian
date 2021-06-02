@@ -4,22 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b329d21b9497a6e8",
+        "id": "573d9150895bbd9f",
         "type": "leaf",
-        "dimension": 50,
         "state": {
           "type": "graph",
           "state": {}
         }
       },
       {
-        "id": "f85a169dce9df718",
+        "id": "808b553794cb8772",
         "type": "leaf",
-        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cloud Computing/Permanent Notes/Function Service Integrations.md",
+            "file": "Cloud Computing/Permanent Notes/SNS.md",
             "mode": "source"
           }
         }
@@ -78,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/Permanent Notes/Function Service Integrations.md",
+                "file": "Cloud Computing/Permanent Notes/SNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f85a169dce9df718",
+  "active": "808b553794cb8772",
   "lastOpenFiles": [
-    "Cloud Computing/Permanent Notes/Function Service Integrations.md",
-    "Cloud Computing/Permanent Notes/Step Functions.md",
-    "Cloud Computing/Permanent Notes/Step Functions Usecases.md",
-    "Cloud Computing/Permanent Notes/Compute.md",
-    "Cloud Computing/Permanent Notes/Lambda.md",
-    "Cloud Computing/Permanent Notes/Untitled.md",
-    "Cloud Computing/Literature Notes/Step Functions - Literature.md",
-    "Cloud Computing/Permanent Notes/Lambda Network.md",
-    "Cloud Computing/Permanent Notes/Lambda Pricing.md",
-    "Cloud Computing/Permanent Notes/Provisioned Concurrency Pricing.md"
+    "Cloud Computing/Permanent Notes/SNS.md",
+    "Cloud Computing/Permanent Notes/SNS Error Handling.md",
+    "Cloud Computing/Permanent Notes/Messaging & Integration.md",
+    "Cloud Computing/Permanent Notes/SQS.md",
+    "Cloud Computing/Permanent Notes/SQS Error Handling.md",
+    "Cloud Computing/Permanent Notes/Standard Queue.md",
+    "Cloud Computing/Permanent Notes/Standard Queue Error Handling.md",
+    "Cloud Computing/Permanent Notes/FIFO Queue.md",
+    "Cloud Computing/Permanent Notes/Retry Field.md",
+    "Cloud Computing/Permanent Notes/Task State.md"
   ]
 }

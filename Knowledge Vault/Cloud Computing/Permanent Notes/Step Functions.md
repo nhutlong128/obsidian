@@ -1,5 +1,4 @@
 ### Metadata
-
 -  Type: #permanent #compute
     Date written: 2021-05-25
     Source:  https://docs.aws.amazon.com/step-functions/latest/dg/welcome.html
@@ -13,6 +12,7 @@
 	- [[Express workflows]] idea for short-running and high-rate workloads
 - [[Step Functions Usecases]]
 - [[Function Service Integrations]]
-
+- [[Step Functions States]]
+- 
 
 Backlink: [[Compute]]
