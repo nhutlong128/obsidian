@@ -1,0 +1,1 @@
+- Represent [[Virtual Network Card]] in one [[VPC]] per [[Availability Zone]]![[Pasted image 20210626145629.png]]

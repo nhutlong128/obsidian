@@ -1,0 +1,5 @@
+- [[Inteface]] is [[Fully Abstract]] ~  can have only abstract methods
+- [[Interface]] methods is responsibility for CAN DO ~ -ABLE of the object that Implements it
+- An object can implements multiple [[Interface]]
+- [[Interface]] doesnt have constructor class
+- [[Interface]] can only have public methods

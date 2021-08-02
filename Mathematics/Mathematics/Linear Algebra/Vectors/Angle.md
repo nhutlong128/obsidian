@@ -1,0 +1,4 @@
+- [[Angle]] w between two [[Vector]] x, y is:
+	- cos(w) = <x, y> / (||x|| ||y||)
+		- where <x, y> is [[Inner Product]]
+	- -1 <= cos(w) <= 1

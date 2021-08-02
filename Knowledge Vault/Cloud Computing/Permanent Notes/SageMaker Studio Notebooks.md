@@ -1,0 +1,4 @@
+- Is recommeded than [[SageMaker Notebook Instances]]
+- [[SageMaker Studio Notebooks]] are accessed from within Studio.
+- Each member of a Studio team gets their own home directory to store their notebooks and other files.
+- [[SageMaker Studio Notebooks]] don't support _local mode_. However, you can use a [[SageMaker Notebook Instances]] to train a sample of your dataset locally, and then use the same code in a [[SageMaker Studio Notebooks]] to train on the full dataset.

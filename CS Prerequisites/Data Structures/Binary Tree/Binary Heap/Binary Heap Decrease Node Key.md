@@ -1,0 +1,2 @@
+- Manipulating the target node key
+- From the position of the target node do [[Half Heapify]]

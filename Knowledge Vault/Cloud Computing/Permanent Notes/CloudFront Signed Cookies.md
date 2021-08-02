@@ -1,0 +1,2 @@
+- Give the user have an access to multiple files
+- Similiar to [[CloudFront Signed URL]]

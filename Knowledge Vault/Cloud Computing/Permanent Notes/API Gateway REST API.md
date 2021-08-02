@@ -1,0 +1,10 @@
+- The older version of [[API Gateway HTTP API]] => slower and more expensive, but supports much broader integrations & features
+- Has several things when [[API Gateway HTTP API]] doesnt
+	- [[API Gateway Caching]]
+	- [[API Gateway Request Validation]]
+	- [[API Gateway Template Mapping]]
+	- [[API Gateway Usage Plans]]
+	- [[Edge-optimized API Endpoint]]
+	- [[Private API Endpoint]]
+	- [[API Gateway resource policies]]
+	- [[WAF]] 

@@ -1,0 +1,1 @@
+- [[DynamoDB Auto Scaling]] With auto scaling, you define a range (upper and lower limits) for read and write capacity units.

@@ -1,0 +1,3 @@
+- [[SQL Clustered Index Key]]
+- [[SQL Non Clustered Index Key]]
+- [[SQL Clustered Index Key]] & [[SQL Non Clustered Index Key]] are implemented on columns that have unique values

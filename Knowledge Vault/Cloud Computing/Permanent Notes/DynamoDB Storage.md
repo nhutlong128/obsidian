@@ -1,0 +1,1 @@
+[[DynamoDB]] stores data in [[DynamoDB Partition]] backed by [[SSD]] and automatically replicated across multiple [[Availability Zone]]s within an [[Region]].

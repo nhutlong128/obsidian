@@ -1,0 +1,3 @@
+- Set of rules to move data between different tiers to save cost: [[S3 Standard]] => [[S3 Glacier]]
+- Transition actions: objects are transitioned to another storage class
+- Expiration actions: objects are delected 

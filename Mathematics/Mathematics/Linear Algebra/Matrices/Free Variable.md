@@ -1,0 +1,1 @@
+-  is the other variables (columns) ~ [[Non-Pivot]] column

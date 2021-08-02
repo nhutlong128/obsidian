@@ -1,0 +1,2 @@
+- [[DynamoDB On-Demand Mode]]  DynamoDB on-demand offers pay-per-request pricing for read and write requests so that you pay only for what you use.
+- [[DynamoDB Provisioned Mode]] If you choose provisioned mode, you specify the number of reads and writes per second that you require for your application.

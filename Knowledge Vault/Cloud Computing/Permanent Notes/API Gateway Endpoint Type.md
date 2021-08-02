@@ -1,0 +1,3 @@
+- [[Edge-optimized API Endpoint]] for geographically distributes clients
+- [[Regional API Endpoint]] for clients in the same region
+- [[Private API Endpoint]] for private accessed

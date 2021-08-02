@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "612aebd33e3b702f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcddbc42a7fd06a1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linear Algebra/Matrices/Matrix Rank.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "bb4e473e59bf0f77",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linear Algebra/Vectors/Vector Space.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "447f1565c058acc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d021bbd1e35c3b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "942bba4a9a9e82d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a9402c671c69dae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Kernel",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d9f4e442ddfaf44a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b16d57caff083cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc38818f1065f354",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linear Algebra/Matrices/Matrix Rank.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "fcddbc42a7fd06a1",
+  "lastOpenFiles": [
+    "Linear Algebra/Matrices/Matrix Rank.md",
+    "Linear Algebra/Matrices/Matrix.md",
+    "Linear Algebra/Matrices/Matrix Representation.md",
+    "Linear Algebra/Matrices/Matrix Types.md",
+    "Linear Algebra/Matrices/Matrix Operations.md",
+    "Linear Algebra/Vectors/Vector Space.md",
+    "Linear Algebra/Vectors/Vector.md",
+    "Linear Algebra/Linear Algebra.md",
+    "Linear Algebra/Groups/Abelian Group.md",
+    "Linear Algebra/Matrices/Orthogonal Matrix.md"
+  ]
+}

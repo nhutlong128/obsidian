@@ -1,0 +1,2 @@
+- Do [[Binary Heap Decrease Node Key]] at the target node with the value of the minimum key in tree - 1 => Make sure when [[Half Heapify]] this node will be root
+- Do [[Binary Heap Head Pop]] to remove the root and reheapify the tree

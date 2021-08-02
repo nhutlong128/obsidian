@@ -1,0 +1,2 @@
+- [[EC2 Spot Instance]]
+- [[Fargate]]

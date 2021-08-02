@@ -1,0 +1,7 @@
+- [[API Gateway resource policies]]
+- [[IAM]] with [[Sig v4]] ~ authentication and authorization
+- [[Lambda Authorizers]] ~ authentication and authorization
+- [[Amazon Cognito]] ~ Only authentication
+- [[API Key]]
+- [[WAF]]
+- [[Mutual TLS]]

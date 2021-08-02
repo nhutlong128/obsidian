@@ -3,4 +3,3 @@
 - [[First-In-First-Out-Delivery]]
 - Support [[Message Groups]] allow multiple ordered message groups within a single queue
 - [[FIFO Queue Error Handling]]
-Backlink: [[SQS]]

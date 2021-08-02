@@ -1,0 +1,9 @@
+- Compare the root node and the inserted data
+- If the inserted data > root node:
+	- If the right child of root node is empty
+		- Place the inserted data on the right child of root node
+	- Else: Keep repeat compare the inserted data and the right child and place on the position of its children
+- If the inserted data < root node:
+	- If the left child of root node is empty
+		- Place the inserted data on the left child of root node
+	- Else: Keep repeat comparing the inserted data and the left child and place on the position of its children

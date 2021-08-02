@@ -1,0 +1,2 @@
+- Backed by [[S3]]
+- Can use [[Active Directory]] to authenticator

@@ -1,0 +1,2 @@
+- [[Redshift Massively Parallel Processing]] enables fast execution on large amounts of data. 
+- [[Redshift Compute Node]] handle all query processing leading up to final result aggregation, with each core of each [[Redshift Compute Node]] executing the same compiled query segments on portions of the entire data.

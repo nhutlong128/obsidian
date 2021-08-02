@@ -1,0 +1,2 @@
+- To enable for [[API Gateway AWS_PROXY Integration]] & [[API Gateway HTTP_PROXY Integration]], add  `Access-Control-Allow-Origin` and `Access-Control-Allow-Headers` in headers
+- To enable for [[API Gateway AWS Integration]] & [[API Gateway HTTP Integration]], add  `Access-Control-Allow-Origin` and `Access-Control-Allow-Headers` in integration response.

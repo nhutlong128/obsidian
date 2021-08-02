@@ -1,0 +1,1 @@
+- [[Redshift Spectrum]] helps query external data like [[S3]] with the help of [[Redshift Cluster]] without loading them into database.

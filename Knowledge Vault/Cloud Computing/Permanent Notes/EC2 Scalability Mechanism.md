@@ -1,0 +1,1 @@
+- [[ASG]] helps [[EC2]] scales horizontally

@@ -1,0 +1,4 @@
+- [[EMR Notebook]] backed up to [[S3]]
+- Accessed only from [[AWS Console]]
+- Hosted inside [[VPC]]
+- [[Zeppelin]]: web based notebook, similar to Jupyter

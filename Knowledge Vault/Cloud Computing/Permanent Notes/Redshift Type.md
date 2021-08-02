@@ -1,0 +1,3 @@
+- [[Redshift Scalable Managed Storage RA3]]
+- [[Redshift Fixed Local SSD Storage DC2]]
+- [[Redshift Large Workload HDD Storage DS2]]

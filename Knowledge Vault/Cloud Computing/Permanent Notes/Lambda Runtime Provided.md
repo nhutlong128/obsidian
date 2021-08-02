@@ -1,0 +1,2 @@
+- Lambda has 2 types of [[Lambda deployment packages]]
+- We can contain more additional code with [[Lambda Layer]] or use [[Lambda Layer]] as running environment 

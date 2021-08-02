@@ -1,0 +1,2 @@
+- Two matrices A, A˜ ∈ Rn×n are [[Similarity Matrices]] if there exists a regular matrix S ∈ Rn×n with A˜ = S(−1)AS
+- [[Similarity Matrices]] are always [[Equivalence Matrices]]. We can treat [[Similarity Matrices]] as Square version of [[Equivalence Matrices]]

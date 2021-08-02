@@ -1,0 +1,2 @@
+- [[Redshift Point-In-Time Snapshot]] is generated automated and manual.
+- [[Redshift Point-In-Time Snapshot]] is stored on [[S3]]

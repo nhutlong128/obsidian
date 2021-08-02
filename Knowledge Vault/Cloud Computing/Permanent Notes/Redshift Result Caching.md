@@ -1,0 +1,1 @@
+Amazon Redshift caches the results of certain types of queries in memory on the [[Redshift Leader Node]]

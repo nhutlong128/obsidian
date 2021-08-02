@@ -1,0 +1,2 @@
+- Resume a training job that was stopped
+- Transfer Learning approach

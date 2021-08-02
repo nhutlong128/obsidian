@@ -1,0 +1,5 @@
+- [[API Gateway AWS Integration]] is used to expose [[AWS Services]], [[Lambda]] & manually configure request and response integration
+- [[API Gateway AWS_PROXY Integration]] is the same as [[API Gateway AWS Integration]] but user doestnt have to configure request and response integration
+- [[API Gateway HTTP Integration]] is used to expose [[HTTP  Endpoint]] & manually mapping request, response method to the according integration
+- [[API Gateway HTTP_PROXY Integration]] is the same as [[API Gateway HTTP Integration]] but user doesnt have to map between method and integration
+- [[API Gateway MOCK Integration]] used for testing, doesnt expose any thing

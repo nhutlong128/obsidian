@@ -1,0 +1,1 @@
+ is only compare the parrent node with one child node (either right of left)

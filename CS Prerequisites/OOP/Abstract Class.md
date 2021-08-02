@@ -1,0 +1,5 @@
+- [[Abstract Class]] is [[Half Abstract]] ~  can have both abstract and concrete methods
+- [[Abstract Class]] is responsible for HAS relationship of the object that extends it
+- [[Abstract Class]] is meant to share the same common logic and be extended by the object that inherits it
+- An object can only inherits only one [[Abstract Class]]
+- [[Abstract Class]] can have protected and public methods

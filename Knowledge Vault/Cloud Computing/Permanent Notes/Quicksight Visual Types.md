@@ -1,0 +1,5 @@
+- [[Bar Chart]] for comparision ![[Pasted image 20210623214718.png]]
+- [[Line Graph]] for changes over time![[Pasted image 20210623214738.png]]
+- [[Scatter Plot]] & [[Heat Map]] for correlation ![[Pasted image 20210623214752.png]] ![[Pasted image 20210623214814.png]]
+- [[Pie Graph]] & [[Tree Map]] for aggregation ![[Pasted image 20210623214831.png]]![[Pasted image 20210623214850.png]]
+- [[Pivot Table]] for tabular data ![[Pasted image 20210623214906.png]]

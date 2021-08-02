@@ -1,0 +1,3 @@
+- [[DynamoDB Accelerator (DAX)]] - caching
+![[Pasted image 20210701122419.png]]
+- [[DynamoDB Reserved Capacity]] By reserving your read and write capacity units ahead of time, you realize significant cost savings compared to on-demand or provisioned throughput settings. Any capacity that you provision in excess of your reserved capacity is billed at standard provisioned capacity rates. Reserved capacity is not available in on-demand mode.

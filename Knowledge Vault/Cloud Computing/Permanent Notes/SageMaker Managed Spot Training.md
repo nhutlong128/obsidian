@@ -1,0 +1,1 @@
+- Use [[EC2 Spot Instance]] over than [[EC2 On Demand Instance]] 

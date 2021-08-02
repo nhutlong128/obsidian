@@ -1,0 +1,6 @@
+- Redshift use [[4-tier hierarchy encryption keys]]
+- [[Redshift Master Key]]
+- [[Redshift Cluster Encryption Key]]
+- [[Database Encryption Key]]
+- [[Data Encryption Key]]
+- Both are generated from [[KMS]]

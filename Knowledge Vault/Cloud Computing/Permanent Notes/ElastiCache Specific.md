@@ -1,0 +1,4 @@
+- [[ElastiCache Redis]] supports [[Transaction]], [[Pub Sub Messaging]]
+- [[ElastiCache Memcached]] supports [[Multi Threaded]]
+- [[ElastiCache Redis Replication Mode]]
+- [[ElastiCache Memcached Auto Discovery]] the ability for client programs to automatically identify all of the nodes in a cache cluster, and to initiate and maintain connections to all of these nodes.

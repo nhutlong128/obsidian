@@ -1,0 +1,2 @@
+- [[SNS]] has two type queues like [[SQS]]:
+	- [[Standard Queue]] and [[FIFO Queue]]. But [[FIFO Queue]] only supported by [[SQS]] consumer.

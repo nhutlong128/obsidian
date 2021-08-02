@@ -1,0 +1,3 @@
+- [[EBS Volume General Purpose gp2 SSD]]
+- [[EBS Volume Provisioned IOPS io1 SSD]]
+- [[EBS Volumn Magnetic]]

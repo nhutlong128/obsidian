@@ -1,0 +1,2 @@
+- Schema repository for tables
+- Integrate with [[Athena]], [[Redshift Spectrum]] or [[EMR]]

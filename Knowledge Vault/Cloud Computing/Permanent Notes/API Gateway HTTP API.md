@@ -1,0 +1,2 @@
+- The newer version of [[API Gateway REST API]] => faster and cheaper, but supports less integrations and features.
+- Has [[API Gateway greedy endpoint]] when [[API Gateway REST API]] doesnt have

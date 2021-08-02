@@ -1,0 +1,6 @@
+- [[EFS Performance Mode]]
+	- General purpose: lower latency but lower I/O operations per second
+	- Max I/O: higher latency but higher I/O operations per second
+- [[EFS Throughput Mode]]
+	- Bursting: scale with file system size
+	- Provisioned: fixed

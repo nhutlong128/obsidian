@@ -1,0 +1,7 @@
+- [[Redshift Sort Key]] - [[Redshift Query Optimizer]] uses [[Redshift Sort Key]] when it determines optimal query plans
+- [[Redshift Distribution Style]]
+- [[Redshift Automatic Compression]] - use DEFAULT
+- [[Redshift Constraints Definition]] - the [[Redshift Query Optimizer]] uses those constraints to generate more efficient query plans.
+- [[Redshift Column Size]] - Use the smallest possible column size
+- Split data into a multiple of the number of  [[Redshift Node Slices]] and compress them before loading them to [[Redshift Compute Node]]
+- [[Redshift Materialized View]] - precomputed result ~ caching

@@ -1,0 +1,6 @@
+- [[Matrix Addittion]] produces [[Matrix]]
+- [[Matrix Multiplication]] produces [[Matrix]]
+- [[Matrix with Scalar Multiplication]] produces [[Matrix]]
+- [[Matrix with Vector Multiplication]] produces [[Vector]]
+- [[Matrix Determinant]]
+- [[Matrix Trace]]

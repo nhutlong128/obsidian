@@ -1,0 +1,1 @@
+= number of GPU in cluster * [[Per-replica Batch Size]]

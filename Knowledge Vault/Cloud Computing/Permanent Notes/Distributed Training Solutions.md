@@ -1,0 +1,5 @@
+- [[Data Parallelism]]
+- [[Model Parallelism]]
+- A common pitfall of naively splitting layers across devices: Training is inherently sequential in both forward and backward passes, and at a given time, only one GPU can actively compute, while the others wait on the activations to be sent => Modern model parallel solve this problem by [[Automatic Model Splitting]] and [[Pipeline Execution Schedule]] 
+- [[Scalling Scenarios]]
+- [[EC2]] instances need be in the same instances [[Region]] and same [[Availability Zone]].

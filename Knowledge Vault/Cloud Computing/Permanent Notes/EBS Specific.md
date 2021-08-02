@@ -1,0 +1,6 @@
+- [[EBS Delete on Termination]]
+- [[EBS Characterized]]
+- [[EBS Multi Attach]]
+- [[EBS Automatic Replication]]
+![[Pasted image 20210626161212.png]]
+![[Pasted image 20210626174533.png]]

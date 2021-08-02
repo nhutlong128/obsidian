@@ -1,0 +1,2 @@
+- Similar to [[Step Functions]]
+- Pipeline defined by JSON

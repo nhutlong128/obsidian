@@ -1,0 +1,3 @@
+- For [[Square Matrix]] A ∈ Rn×n , the set of all [[Eigenvector]] of A associated with an [[Eigenvalue]] λ spans a subspace of R^n, which is called 
+	- the [[Eigenspace]] of A with respect to λ and is denoted by E_λ.
+	- The set of all [[Eigenvalue]] of A is called the [[Eigenspectrum]] of A

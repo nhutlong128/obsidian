@@ -1,0 +1,3 @@
+- [[Binding]] is a process linking of function call to its function body (which class)
+- [[Static Binding]] The binding which occurs during the compile time
+- [[Dynamic Binding]] Events occurs at run time.It is also known as late binding.All information needed to call a function come to know at runtime.

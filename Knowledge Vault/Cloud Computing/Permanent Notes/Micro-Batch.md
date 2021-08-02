@@ -1,0 +1,1 @@
+= subset of [[Mini-Batch]]

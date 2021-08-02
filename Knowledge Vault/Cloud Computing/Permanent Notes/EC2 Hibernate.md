@@ -1,0 +1,2 @@
+- [[RAM State]] is written to be preserved on [[EBS]]
+- The instance boost is much faster

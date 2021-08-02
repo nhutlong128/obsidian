@@ -1,0 +1,2 @@
+- Empty EBS volumes receive their maximum performance the moment that they are created and do not require initialization (formerly known as pre-warming).
+- For volumes that were created from snapshots, the storage blocks must be pulled down from Amazon S3 and written to the volume before you can access them. This preliminary action takes time and can cause a significant increase in the latency of I/O operations the first time each block is accessed. Volume performance is achieved after all blocks have been downloaded and written to the volume.

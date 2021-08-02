@@ -1,0 +1,7 @@
+- [[OLAP]]
+- Based on [[PostgreSQL]]
+- [[Data warehouse system architecture]]
+- [[Redshift Massively Parallel Processing]]
+- [[Redshift Columnar Data Storage]]
+- [[Redshift Result Caching]]
+- [[Redshift Spectrum]]

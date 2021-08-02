@@ -1,0 +1,1 @@
+- Similar to [[EFS]] but for Windows

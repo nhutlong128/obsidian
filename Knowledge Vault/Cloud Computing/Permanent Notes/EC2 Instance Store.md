@@ -1,0 +1,3 @@
+- [[EC2 Instance Store]] should be used, if we need a high-performance hardware disk
+- Better I/O performance
+- [[EC2 Instance Store]] lose storage if they're stopped

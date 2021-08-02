@@ -1,0 +1,7 @@
+- [[DynamoDB Transactions]] ~ all or nothing of insert, update & delete across multi tables
+- Search by [[Primary Key]] & [[Indexing]]
+- [[DynamoDB Streams]] is an optional feature that captures data modification events in DynamoDB tables
+- [[DynamoDB]] stores data in [[DynamoDB Partition]]. DynamoDB allocates additional [[DynamoDB Partition]] to a table in the following situations
+	- If you increase the table's provisioned throughput settings beyond what the existing partitions can support.
+	- If an existing partition fills to capacity and more storage space is required.
+- [[DynamoDB Provisioned Throughput]]

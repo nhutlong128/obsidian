@@ -1,0 +1,3 @@
+- [[ElastiCache Lazy Loading]] ~ all the read data is cached => data can be stale
+- [[ElastiCache Write Through]] ~ adds or update data when DB is written
+- [[ElastiCache Session Store]] ~ store temporary session data in a cache with TTL

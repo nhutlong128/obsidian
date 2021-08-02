@@ -1,0 +1,1 @@
+ - [[Basic Variable]] is the variable (column) corresponding to the [[Pivot]] in [[Row-Echelon Form]]

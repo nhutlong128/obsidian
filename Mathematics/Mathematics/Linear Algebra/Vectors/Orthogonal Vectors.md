@@ -1,0 +1,2 @@
+- Two [[Vector]] x, y are said [[Orthogonal Vectors]] if [[Inner Product]] of them <x, y> = 0
+- If x, y are [[Orthogonal Vectors]] and ||x|| = 1, ||y|| = 1 then they are called [[Orthonormal]]

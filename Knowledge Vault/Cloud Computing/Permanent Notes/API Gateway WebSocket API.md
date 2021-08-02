@@ -1,0 +1,1 @@
+- While [[API Gateway HTTP API]] & [[API Gateway REST API]] is half-duplex connection, [[API Gateway WebSocket API]] is full-duplex connection.

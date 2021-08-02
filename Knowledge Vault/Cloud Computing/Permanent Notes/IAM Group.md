@@ -1,0 +1,2 @@
+- Contain multiple [[IAM User]]
+- One [[IAM User]] can belong to multi [[IAM Group]]

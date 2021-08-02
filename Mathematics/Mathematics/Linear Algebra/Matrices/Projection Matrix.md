@@ -1,0 +1,3 @@
+- Consider a [[Vector Space]] V, a [[Vector Subspace]] U. Every [[Vector]] belongs to [[Vector Space]] V can be projected into [[Vector Subspace]] U which mean can be expressed by [[Linear Combination]] of [[Basis]] b1,...., bn of [[Vector Subspace]] U. The [[Projection Matrix]] P is:
+	- P = B x (B^T x B)^−1 x B^T
+	- ![[Pasted image 20210711154731.png]]

@@ -1,0 +1,2 @@
+- [[Global]]
+- ![[Pasted image 20210701143416.png]]

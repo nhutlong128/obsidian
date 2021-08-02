@@ -1,0 +1,1 @@
+[[SQS]] support both [[Standard Queue]] and [[FIFO Queue]].

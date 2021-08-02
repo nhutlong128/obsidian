@@ -1,0 +1,2 @@
+- [[Real-time data Access]] - `GetRecord API`
+- [[Data access from Offline Store]] 

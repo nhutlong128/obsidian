@@ -1,0 +1,1 @@
+Each volume is automatically replicated whitin its Availability zone to protect you from component failure, offering high availability and durability

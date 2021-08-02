@@ -1,0 +1,9 @@
+- [[Streams]] are divided in ordered [[Shards / Partitions]]
+- [[Shards / Partitions]] have to be provisioned in advance (capacity planning)
+- Data retention is 24 hours by default, can go up to 7 days
+- Ability to reprocess / replay data, is similar to [[SNS]], unlike [[SQS]]
+- Multiple applications can comsume the same stream, is similar to [[SNS]]
+- Once data inserted in [[Kinesis]], it cant be deleted due to immutability 
+- [[Kinesis Streams Record]] can be up to 1MB in size => Recommend many files but little size
+- [[Kinesis Streams Producer]] has 1MB/s or 1000 messages/s at write per [[Shards / Partitions]]
+- [[Kinesis Streams Consumer]] has 2MB/s at read per [[Shards / Partitions]] and 5 API calls/s per [[Shards / Partitions]]

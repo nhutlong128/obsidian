@@ -1,0 +1,2 @@
+- [[IAM Credential Report]] - a report listing all account's user and their status
+- [[IAM Access Advisor]] - show service permissions granted to user and when did them last accessed

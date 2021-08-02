@@ -1,0 +1,4 @@
+- [[ElastiCache Lazy Loading]] - if a cache miss occurs, the application will get data from data store, and write data to ElasticCache to update
+- [[ElastiCache Write Through]] - whenever a data in data store is updated or added, data store will update data in ElastiCache
+- [[ElastiCache TTL]] - when application get expired data => This data will be treat at null, Application will then get data from data store and update the ElastiCache
+- ![[Pasted image 20210627174708.png]]

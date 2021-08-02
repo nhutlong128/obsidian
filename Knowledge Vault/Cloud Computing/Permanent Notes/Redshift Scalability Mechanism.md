@@ -1,0 +1,2 @@
+- [[Redshift Concurrency Scaling]] - automatically adds additional cluster capacity to process an increase in both read queries and write queries.
+- You're charged for concurrency-scaling clusters only for the time they're actively running queries.

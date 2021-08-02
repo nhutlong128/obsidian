@@ -1,0 +1,5 @@
+- If [[Linear Combination]] is [[Trivial Linear Combination]]	
+- Can check [[Linear Independence]] of aumgneted matrix in the form of [[Reduced Row-Echelon Form]] => Check if there is any [[Non-Pivot]] => [[Linear Combination]] => [[Linear Dependence]]
+- Can have two types:
+	- [[Linearly Independent Column]]
+	- [[Linearly Independent Row]]

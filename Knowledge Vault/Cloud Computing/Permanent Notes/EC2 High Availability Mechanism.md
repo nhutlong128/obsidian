@@ -1,0 +1,1 @@
+- [[ELB]] distributing load across [[EC2]]

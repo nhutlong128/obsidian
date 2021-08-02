@@ -1,0 +1,4 @@
+- [[Global Batch Size]]
+- [[Mini-Batch]]
+- [[Per-replica Batch Size]] = number of records sent to each GPU in cluster = Batch size in local
+- [[Micro-Batch]] 

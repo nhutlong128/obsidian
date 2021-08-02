@@ -1,0 +1,3 @@
+- 1 [[Read Capacity Units (RCU)]] = 1 [[Strongly consistent read]] of 4KB per second
+- 1 [[Read Capacity Units (RCU)]] = 2 [[Eventually consistent read]] of 4KB per second
+- 1 [[Write Capacity Units (RCU)]] = 1 Write of 1KB per second

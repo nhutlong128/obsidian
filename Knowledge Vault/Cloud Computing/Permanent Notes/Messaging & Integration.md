@@ -1,3 +1,0 @@
-# Messaging & Integration
-- [[SQS]]
-- [[SNS]]

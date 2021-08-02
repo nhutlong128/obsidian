@@ -1,0 +1,2 @@
+- [[ElastiCache Redis]] allows create multiple replicion groups
+- [[ElastiCache Memcached]] scales up to 20 nodes

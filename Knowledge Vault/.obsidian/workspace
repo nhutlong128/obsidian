@@ -4,20 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "573d9150895bbd9f",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "808b553794cb8772",
+        "id": "2611a3630d1aa66c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cloud Computing/Permanent Notes/SNS.md",
+            "file": "Cloud Computing/Permanent Notes/DynamoDB.md",
             "mode": "source"
           }
         }
@@ -47,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "EC2",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -60,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307
+    "width": 394
   },
   "right": {
     "id": "f647c3188546f50e",
@@ -76,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/Permanent Notes/SNS.md",
+                "file": "Cloud Computing/Permanent Notes/DynamoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,20 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 223
   },
-  "active": "808b553794cb8772",
+  "active": "2611a3630d1aa66c",
   "lastOpenFiles": [
-    "Cloud Computing/Permanent Notes/SNS.md",
-    "Cloud Computing/Permanent Notes/SNS Error Handling.md",
-    "Cloud Computing/Permanent Notes/Messaging & Integration.md",
-    "Cloud Computing/Permanent Notes/SQS.md",
-    "Cloud Computing/Permanent Notes/SQS Error Handling.md",
-    "Cloud Computing/Permanent Notes/Standard Queue.md",
-    "Cloud Computing/Permanent Notes/Standard Queue Error Handling.md",
-    "Cloud Computing/Permanent Notes/FIFO Queue.md",
-    "Cloud Computing/Permanent Notes/Retry Field.md",
-    "Cloud Computing/Permanent Notes/Task State.md"
+    "Cloud Computing/Permanent Notes/DynamoDB.md",
+    "Cloud Computing/Permanent Notes/EC2.md",
+    "Cloud Computing/Permanent Notes/DMS.md",
+    "Course/AWS Certified ML Specialty 2021/AWS ML Specialty Course Content.md",
+    "Cloud Computing/Permanent Notes/ASG.md",
+    "Cloud Computing/Permanent Notes/Batch.md",
+    "Cloud Computing/Permanent Notes/Batch Runtime Provided.md",
+    "Cloud Computing/Permanent Notes/EMR.md",
+    "Cloud Computing/Permanent Notes/Glue.md",
+    "Cloud Computing/Permanent Notes/SSM Parameter Store.md"
   ]
 }

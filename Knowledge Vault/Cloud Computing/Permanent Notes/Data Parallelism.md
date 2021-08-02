@@ -1,0 +1,3 @@
+- dataset is split up across multiple processing nodes then nodes performing a forward and backward pass, and shares weight updates with the other nodes for synchronization before moving on to the next batch
+- the biggest disadvantage is compute the mini-batch gradient average with gradients coming from all the workers and communicating it to all the workers => `allreduce`
+- Modifying Training Script with the help of [[SageMaker Data Parallel Library]]

@@ -1,0 +1,1 @@
+- Connect [[SageMaker Notebook Instances]] to [[EMR]] to pre-processing big data in Spark with training and inference in SageMaker

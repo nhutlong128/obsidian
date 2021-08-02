@@ -1,0 +1,1 @@
+- [[ElastiCache Redis]] supports [[ElastiCache Redis Point-In-Time Snapshots]]

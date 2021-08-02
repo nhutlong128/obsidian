@@ -1,0 +1,3 @@
+- To use Lambda efficiently, should [[Lambda Logging]] to optimize if needed.
+- [[Lambda Access Control]]
+- [[Lambda Tagging]]

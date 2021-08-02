@@ -1,0 +1,1 @@
+- For every n elements in array, do [[Binary Search Tree Insert]]

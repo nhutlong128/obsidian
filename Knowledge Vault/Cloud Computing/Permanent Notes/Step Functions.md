@@ -14,5 +14,3 @@
 - [[Function Service Integrations]]
 - [[Step Functions States]]
 - 
-
-Backlink: [[Compute]]

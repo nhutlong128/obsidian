@@ -1,0 +1,6 @@
+- [[EC2 Horizontal Scalability]] goes in hand with [[EC2 High Availability]]
+- [[ASG Default Termination Policy]]
+![[Pasted image 20210627130457.png]]
+- [[ASG Lifecycle Hooks]]
+![[Pasted image 20210627130545.png]]
+![[Pasted image 20210627113948.png]]

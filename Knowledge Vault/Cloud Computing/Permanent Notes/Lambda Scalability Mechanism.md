@@ -1,0 +1,1 @@
+- If one instance of [[Lambda]] is still running, another instance of [[Lambda]] will be invoked till [[Lambda Concurrency]] meets limits.

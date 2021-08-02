@@ -1,3 +1,26 @@
-# Storage services
+# Storage Note Template
+- Storage Type
+- Provision Instance
+- Location
+- Type
+- High Availability Mechanism
+- Scalability Mechanism
+- Security
+- Replication
+- Optimize
+- Fees charged
+- Specific
+# Object Storage
+- [[S3]]
 
-[[S3 - Permanent]]
+# File Storage
+- [[EFS]]
+- [[FSx]]
+
+# Block Storage
+- [[EBS]]
+
+# Data Transfer
+- [[Snow Familiy]]
+- [[Storage Gateway]]
+- [[Transfer Family]]

@@ -1,0 +1,1 @@
+- If [[Linear Combination]] of these vectors is [[Non-Trivial Linear Combination]]

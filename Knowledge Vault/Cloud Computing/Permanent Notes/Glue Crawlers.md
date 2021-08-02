@@ -1,0 +1,3 @@
+- Automatic go through data to infer schema and partitions for [[Glue Data Catalog]]
+- Work with JSON, Parquet and CSV or relation store
+- Works for: [[S3]], [[Redshift]], [[RDS]]

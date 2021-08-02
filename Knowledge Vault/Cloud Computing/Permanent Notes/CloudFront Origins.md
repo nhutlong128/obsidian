@@ -1,0 +1,5 @@
+- [[S3]] using [[CloudFront Origin Access Identity]] or [[S3 Bucket Policy]]
+- [[EC2]]
+- [[ELB Application Load Balancer]]
+- [[Origin Groups]]
+![[Pasted image 20210629224707.png]]

@@ -1,0 +1,3 @@
+- Add a fraction % of GPU to accelerate model inference instead of full GPU
+- Start with an accelerator type that provides at least as much memory as the file size of your trained model.
+- Configure different accelerator types and testing

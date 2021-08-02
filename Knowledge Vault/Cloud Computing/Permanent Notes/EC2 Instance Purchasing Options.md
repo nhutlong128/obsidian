@@ -1,0 +1,6 @@
+- [[EC2 On Demand Instance]]: short workload, cant predict how the applicaion will behave => Highest cost, No upfront payment
+- [[EC2 Reserved Instance]]: long workloads -> second cheap
+- [[EC2 Convertible Reserved Instance]]: long workloads with flexible -> third cheap
+- [[EC2 Scheduled Reserved Instance]] long workloads with predictable ~ ex: every 3 - 6pm => fourth cheap
+- [[EC2 Spot Instance]]: short workload, cheap, can lose instance => Most cheap => not suitable for critical jobs or database
+- [[EC2 Dedicated Hosts Instance]]: book an entire physical server => Compilance requirements => Cost equal to [[EC2 On Demand Instance]] if not reserve host

@@ -3,4 +3,3 @@
 - [[Data key reuse perioid]] is the length of time SQS caching a data key before call [[KMS]] again.
 - When [[SQS]] moves a message from encrypted source queue to an unecrypted [[Dead Letter Queue - DLQ]], the message remains **Encrypted**
 
-Backlink: [[SQS]]

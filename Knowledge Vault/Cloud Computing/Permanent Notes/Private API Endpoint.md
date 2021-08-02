@@ -1,0 +1,1 @@
+- [[Private API Endpoint]] can only be accessed from [[VPC]] from [[PrivateLink]]

@@ -1,0 +1,1 @@
+Streaming sources can be [[Kafka]], [[Kinesis]] or [[Spark Streaming]].

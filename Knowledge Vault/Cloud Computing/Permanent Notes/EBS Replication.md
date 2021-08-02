@@ -1,0 +1,1 @@
+- [[EBS Point-in-time Snapshots]] is Asynchronous and Created immediately of (un)attached volume, but the status of the snapshot is `pending` until the snapshot is complete

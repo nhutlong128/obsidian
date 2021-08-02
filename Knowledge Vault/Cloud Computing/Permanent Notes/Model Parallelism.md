@@ -1,0 +1,4 @@
+- A model might be complex and have a high number of weights => model partitioned across multiple processing nodes. 
+- Each node carries a subset of the model, through which the data flows and the transformations are shared and compiled.
+- You need to send your batches of data out to each node so that the data is processed on all parts of the model
+- Modifying Training Script with the help of [[SageMaker's Distributed Model Parallel Library]]

@@ -1,0 +1,7 @@
+- Receive logs native from
+	- [[Lambda]]
+	- [[ECS]]
+	- [[VPC Flow Logs]]
+	- [[API Gateway]]
+- Receive logs from SDK
+- Receive logs from [[CloudWatch Logs Agent]]

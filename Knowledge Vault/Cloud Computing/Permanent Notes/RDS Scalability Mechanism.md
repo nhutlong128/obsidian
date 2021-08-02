@@ -1,0 +1,1 @@
+- [[RDS Read Replicas]] is ASYNC
